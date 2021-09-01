@@ -1,0 +1,36 @@
+
+<header class="usa-header site-c-header" role="banner">
+  <div class="usa-navbar site-c-navbar">
+    <a href="{{ site.baseurl }}/" title="USDS Home" class="site-c-navbar__logo-link">
+      <img class="site-c-navbar__logo" src="{{ site.baseurl }}/assets/img/jpss-logo-horizontal.png" alt="JPSS Logo">
+    </a>
+    <button class="usa-menu-btn site-c-navbar__button" aria-label="Menu">
+      <svg aria-hidden="true">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl }}/assets/img/fontawesome-sprite.svg#bars"></use>
+      </svg>
+    </button>
+  </div>
+
+  <nav role="navigation" class="usa-nav site-c-nav">
+      <button class="usa-nav__close">
+        <img src="{{ site.baseurl }}/assets/img/close.svg" alt="close">
+      </button>
+
+      <ul class="site-c-nav__primary-nav">
+        <li class="site-c-nav__primary-nav__item">
+          <a class="site-c-nav__primary-nav__link" href="{{ site.baseurl }}{% link pages/about-us.html %}">About JPSS</a>
+        </li>
+        <li class="site-c-nav__primary-nav__item">
+          <a class="site-c-nav__primary-nav__link" href="{{ site.baseurl }}{% link pages/how-we-work.html %}">Academics</a>
+        </li>
+        <li class="site-c-nav__primary-nav__item">
+          <a class="site-c-nav__primary-nav__link" href="{{ site.baseurl }}{% link pages/people.html %}">Our team</a>
+        </li>
+        <li class="site-c-nav__primary-nav__item">
+          <a class="site-c-nav__primary-nav__link" href="{{ site.baseurl }}{% link pages/contact-us.html %}">Contact us</a>
+        </li>
+      </ul>
+
+  </nav>
+</header>
+<div class="usa-overlay"></div>

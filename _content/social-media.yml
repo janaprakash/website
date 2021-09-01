@@ -1,0 +1,19 @@
+- name: Instagram
+  url: 
+  sprite-ref: instagram
+
+- name: Twitter
+  url: 
+  sprite-ref: twitter
+
+- name: Facebook
+  url: 
+  sprite-ref: facebook-f
+
+- name: Medium
+  url: 
+  sprite-ref: medium-m
+
+- name: Linked in
+  url: 
+  sprite-ref: linkedin-in

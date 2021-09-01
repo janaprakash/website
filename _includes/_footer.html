@@ -1,0 +1,49 @@
+
+{% unless page.simple_footer %}
+<div>
+<ul id="instagram-feed" class="site-c-instagallery"></ul>
+</div>
+
+<section class="site-c-billboard">
+  <div class="grid-container">
+    <p>Let’s learn at<br /> Jana Prakash Secondary School. With us!</p>
+  </div>
+</section>
+{% endunless %}
+
+<footer class="site-c-footer">
+  <div class="grid-container">
+    <div class="grid-row flex-justify">
+      <div class="grid-col-12 desktop:grid-col margin-bottom-7">
+        <!-- <img class="site-c-footer__logo" src="{{ site.baseurl }}/assets/img/usds-logo-footer.svg" alt="USDS Logo"> -->
+      </div>
+      <div class="grid-col-12 tablet:grid-col-4 desktop:grid-col margin-bottom-7">
+        <h2 class="site-c-footer__heading">About JPSS</h2>
+        <ul class="site-c-footer__list tablet:padding-right-3">
+          <li><a href="{{ site.baseurl }}{% link pages/contact-us.html %}">About Janprakash</a></li>
+          <li><a href="{{ site.baseurl }}/assets/files/{{ site.d_and_i_file_name }}" target="_blank">Academics</a></li>
+          <li><a href="{{ site.baseurl }}/assets/files/{{ site.d_and_i_file_name }}" target="_blank">Our team</a></li>
+          <li><a href="{{ site.baseurl }}/resources/{{ site.impact_report_file_name }}" target="_blank">E-library</a></li>
+          <li><a href="{{ site.baseurl }}/assets/files/{{ site.press_kit_file_name }}" target="_blank">Contact us</a></li>
+        </ul>
+      </div>
+      <div class="grid-col-12 tablet:grid-col-4 desktop:grid-col margin-bottom-7">
+        <h2 class="site-c-footer__heading">Resources</h2>
+        <ul class="site-c-footer__list tablet:padding-right-3">
+          <li><a href="" target="_blank">Pokhara Metropolitan City</a></li>
+          <li><a href="http://www.moe.gov.np/" target="_blank">MoE</a></li>
+          <li><a href="http://www.nced.gov.np/" target="_blank">NCED</a></li>
+          <li><a href="https://www.doe.gov.np/" target="_blank">CEHRD</a></li>
+          <li><a href="https://www.neb.gov.np/" target="_blank">National Examination Board</a></li>
+        </ul>
+      </div>
+      <div class="grid-col-12 tablet:grid-col-4 desktop:grid-col margin-bottom-7">
+        <h2 class="site-c-footer__heading">Follow us</h2>
+        {% include _social-buttons.html modifiers="site-c-social-buttons--mini" %}
+      </div>
+    </div>
+    <div class="site-c-footer__site-info">
+      <a href="mailto:USDSpress@omb.eop.gov">info@jpss.edu.np</a> | © 2021 Janaprakash Secondary School
+    </div>
+  </div>
+</footer>

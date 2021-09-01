@@ -1,0 +1,22 @@
+hero:
+  heading_title: "Welcome to Jana Prakash!"
+  heading_button_text: 
+
+mission:
+  heading_title: ""
+  heading_text: |-
+      Millions of people use Federal Government services every day. Veterans apply for health care. Immigrants apply for naturalization. Too often, outdated tools and complex systems make these interactions cumbersome and frustrating.
+
+      To improve these services, USDS hires top technologists into term-limited ‘tours of civic service.’ By working alongside civil servants, they help build better tools for the people.
+  heading_button_text: "Learn about our mission"
+
+people:
+  heading_title: "Our team"
+  heading_text: |-
+      Every person, from all walks of life, interacts with their government. We hire technologists from diverse backgrounds to improve the services that millions rely on. Meet a few staff members who have signed on for tours of civic service.
+  heading_button_text: "Meet more staff"
+
+community:
+  heading_title: "We are a community"
+  heading_text: |-
+      When you join Jana Prakash you become part of a vibrant, supportive group of humans. Check out our social media channels to see more Jana Prakash moments.
