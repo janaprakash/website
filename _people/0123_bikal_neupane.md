@@ -6,15 +6,15 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/sudarshan-bastola
+permalink: people/bikal-neupane
 
 # People Carousel and Page (Edit this)
-name: Sudarshan Bastola
+name: Bikal Neupane
 pronouns: He/Him
 alumni: 
-cop: Basic Level(6-8)/Computer/Science
-city_of_origin: Pokhara
-image_name: sudarshan-bastola.jpg
+cop: Basic Level(6-8)/Mathematics
+city_of_origin: Rupa-07, Majhgaun
+image_name: bikal-neupane.jpg
 quote: 
 
 ---

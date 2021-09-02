@@ -6,16 +6,15 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/bishnu-timilsina
+permalink: people/shankar-pandey
 
 # People Carousel and Page (Edit this)
-name: Bishnu Kumari Timilsina
-pronouns: She/Her
+name: Shankar Pandey
+pronouns: He/Him
 alumni: 
-cop: Basic Level
+cop: Basic Level(1-5)
 city_of_origin: Pokhara
-previously_at: 
-image_name:
+image_name: 
 quote: 
 
 ---

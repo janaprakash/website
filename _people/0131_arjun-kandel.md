@@ -6,16 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/bishnu-acharya
+permalink: people/arjun-kandel
 
 # People Carousel and Page (Edit this)
-name: Bishnu Maya Acharya
-pronouns: She/Her
+name: Arjun Kandel
+pronouns: He/Him
 alumni: 
-cop: Basic Level
+cop: Basic Level(1-5)/Mathematics
 city_of_origin: Pokhara
 previously_at: 
-image_name:
+image_name: arjun-kandel.jpg
 quote: 
 
 ---

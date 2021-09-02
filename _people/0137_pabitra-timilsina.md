@@ -6,13 +6,13 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/kabita-bhandari
+permalink: people/pabitra-timilsina
 
 # People Carousel and Page (Edit this)
-name: Kabita Bhandari
+name: Pabitra Timilsina
 pronouns: She/Her
 alumni: 
-cop: Basic Level/Social Studies
+cop: Basic Level(1-5)
 city_of_origin: Pokhara
 previously_at: 
 image_name:

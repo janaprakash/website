@@ -6,15 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/shankar-pandey
+permalink: people/archana-pandit
 
 # People Carousel and Page (Edit this)
-name: Shankar Pandey
-pronouns: He/Him
+name: Archana Pandit
+pronouns: She/Her
 alumni: 
-cop: Basic Level
+cop: Accountant
 city_of_origin: Pokhara
-image_name: 
+previously_at: 
+image_name:
 quote: 
 
 ---

@@ -6,15 +6,15 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/sudarshan-bastola
+permalink: people/shiva-subedi
 
 # People Carousel and Page (Edit this)
-name: Sudarshan Bastola
+name: Shiva Hari Subedi
 pronouns: He/Him
 alumni: 
-cop: Basic Level(6-8)/Computer/Science
+cop: Basic Level(6-8)/Nepali
 city_of_origin: Pokhara
-image_name: sudarshan-bastola.jpg
+image_name: 
 quote: 
 
 ---

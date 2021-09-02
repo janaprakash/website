@@ -6,13 +6,13 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/indira-regmi
+permalink: people/kabita-bhandari
 
 # People Carousel and Page (Edit this)
-name: Indira Regmi
+name: Kabita Bhandari
 pronouns: She/Her
 alumni: 
-cop: Basic Level/Nepali
+cop: Basic Level(1-5)/Social Studies
 city_of_origin: Pokhara
 previously_at: 
 image_name:

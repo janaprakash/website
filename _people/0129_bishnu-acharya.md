@@ -6,15 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/bikal-neupane
+permalink: people/bishnu-acharya
 
 # People Carousel and Page (Edit this)
-name: Bikal Neupane
-pronouns: He/Him
+name: Bishnu Maya Acharya
+pronouns: She/Her
 alumni: 
-cop: Basic Level/Mathematics
-city_of_origin: Rupa-07, Majhgaun
-image_name: bikal-neupane.jpg
+cop: Basic Level(1-5)
+city_of_origin: Pokhara
+previously_at: 
+image_name:
 quote: 
 
 ---

@@ -6,13 +6,13 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/basbdr-nepali
+permalink: people/kabita-kunwar
 
 # People Carousel and Page (Edit this)
-name: Bas Bahadur Nepali
-pronouns: He/Him
+name: Kabita Kunwar
+pronouns: She/Her
 alumni: 
-cop: Basic Level
+cop: Office Helper
 city_of_origin: Pokhara
 previously_at: 
 image_name:

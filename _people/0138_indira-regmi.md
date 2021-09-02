@@ -6,15 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/shakti-dhakal
+permalink: people/indira-regmi
 
 # People Carousel and Page (Edit this)
-name: Shakti Ballab Dhakal
-pronouns: He/Him
+name: Indira Regmi
+pronouns: She/Her
 alumni: 
-cop: Basic Level/Mathematics
+cop: Basic Level(1-5)/Nepali
 city_of_origin: Pokhara
-image_name: 
+previously_at: 
+image_name:
 quote: 
 
 ---

@@ -6,15 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/sudarshan-bastola
+permalink: people/basbdr-nepali
 
 # People Carousel and Page (Edit this)
-name: Sudarshan Bastola
+name: Bas Bahadur Nepali
 pronouns: He/Him
 alumni: 
-cop: Basic Level(6-8)/Computer/Science
+cop: Basic Level(1-5)
 city_of_origin: Pokhara
-image_name: sudarshan-bastola.jpg
+previously_at: 
+image_name:
 quote: 
 
 ---

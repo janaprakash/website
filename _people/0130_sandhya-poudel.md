@@ -6,15 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/sudarshan-bastola
+permalink: people/sandhya-poudel
 
 # People Carousel and Page (Edit this)
-name: Sudarshan Bastola
-pronouns: He/Him
+name: Sandhya Poudel
+pronouns: She/Her
 alumni: 
-cop: Basic Level(6-8)/Computer/Science
+cop: Basic Level(1-5)/Nepali
 city_of_origin: Pokhara
-image_name: sudarshan-bastola.jpg
+previously_at: 
+image_name:
 quote: 
 
 ---

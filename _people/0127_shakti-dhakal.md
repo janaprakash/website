@@ -6,16 +6,15 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/nirmala-pageni
+permalink: people/shakti-dhakal
 
 # People Carousel and Page (Edit this)
-name: Nirmala Pageni
-pronouns: She/Her
+name: Shakti Ballab Dhakal
+pronouns: He/Him
 alumni: 
-cop: Basic Level/English
+cop: Basic Level(1-5)/Mathematics
 city_of_origin: Pokhara
-previously_at: 
-image_name:
+image_name: 
 quote: 
 
 ---

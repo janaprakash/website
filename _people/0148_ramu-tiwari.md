@@ -6,15 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/shiva-subedi
+permalink: people/ramu-tiwari
 
 # People Carousel and Page (Edit this)
-name: Shiva Hari Subedi
-pronouns: He/Him
+name: Ramu Tiwari
+pronouns: She/Her
 alumni: 
-cop: Secondary Level/Nepali
+cop: Office Helper
 city_of_origin: Pokhara
-image_name: 
+previously_at: 
+image_name:
 quote: 
 
 ---

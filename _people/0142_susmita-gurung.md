@@ -6,13 +6,13 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/sandhya-poudel
+permalink: people/susmita-gurung
 
 # People Carousel and Page (Edit this)
-name: Sandhya Poudel
+name: Susmita Gurung
 pronouns: She/Her
 alumni: 
-cop: Basic Level/Nepali
+cop: ECD
 city_of_origin: Pokhara
 previously_at: 
 image_name:

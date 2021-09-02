@@ -6,13 +6,13 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/laxmi-timilsina
+permalink: people/bishnu-timilsina
 
 # People Carousel and Page (Edit this)
-name: Laxmi Timilsina
+name: Bishnu Kumari Timilsina
 pronouns: She/Her
 alumni: 
-cop: Montesory
+cop: Basic Level(1-5)
 city_of_origin: Pokhara
 previously_at: 
 image_name:
