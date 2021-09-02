@@ -6,13 +6,13 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/baburam-neupane
+permalink: people/basbdr-nepali
 
 # People Carousel and Page (Edit this)
-name: Baburam Neupane
+name: Bas Bahadur Nepali
 pronouns: He/Him
 alumni: 
-cop: Social Studies
+cop: Moral
 city_of_origin: Pokhara
 previously_at: 
 image_name:
