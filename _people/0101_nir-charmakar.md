@@ -12,7 +12,7 @@ permalink: people/nir-charmakar
 name: Nir Bahadur Charmakar
 pronouns: He/Him
 alumni: 
-cop: Mathematics
+cop: Vice-Principal/Mathematics
 city_of_origin: Pokhara
 previously_at: Ammarsiddha Namuna Madhyamik Vidyalaya
 image_name: nir-charmakar.jpg

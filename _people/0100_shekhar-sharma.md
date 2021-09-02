@@ -12,7 +12,7 @@ permalink: people/shekhar-sharma
 name: Shekhar Nath Sharma
 pronouns: He/Him
 alumni: 
-cop: Headmaster/Science
+cop: Principal/Science
 city_of_origin: Pokhara
 previously_at: 
 image_name: shekhar-sharma.jpg
