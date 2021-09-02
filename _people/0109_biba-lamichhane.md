@@ -10,9 +10,9 @@ permalink: people/biba-lamichhane
 
 # People Carousel and Page (Edit this)
 name: Biba Lamichhane
-pronouns: He/Him
+pronouns: She/Her
 alumni: 
-cop: Grade Teacher
+cop: ECD
 city_of_origin: Pokhara
 previously_at: 
 image_name:

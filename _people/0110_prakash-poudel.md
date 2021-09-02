@@ -12,7 +12,7 @@ permalink: people/prakash-poudel
 name: Prakash Poudel
 pronouns: He/Him
 alumni: 
-cop: Computer Science
+cop: Basic Level/Computer Science
 city_of_origin: Pokhara
 previously_at: 
 image_name:

@@ -6,16 +6,15 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/arjun-kandel
+permalink: people/krishna-poudel
 
 # People Carousel and Page (Edit this)
-name: Arjun Kandel
+name: Krishna Prasad Poudel
 pronouns: He/Him
 alumni: 
-cop: Basic Level/Mathematics
+cop: Office Helper
 city_of_origin: Pokhara
-previously_at: 
-image_name: arjun-kandel.jpg
+image_name: 
 quote: 
 
 ---

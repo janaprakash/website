@@ -12,7 +12,7 @@ permalink: people/basbdr-nepali
 name: Bas Bahadur Nepali
 pronouns: He/Him
 alumni: 
-cop: Moral
+cop: Basic Level
 city_of_origin: Pokhara
 previously_at: 
 image_name:

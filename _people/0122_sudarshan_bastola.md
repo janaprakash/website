@@ -12,7 +12,7 @@ permalink: people/sudarshan-bastola
 name: Sudarshan Bastola
 pronouns: He/Him
 alumni: 
-cop: Computer Science
+cop: Basic Level/Computer/Science
 city_of_origin: Pokhara
 image_name: sudarshan-bastola.jpg
 quote: 

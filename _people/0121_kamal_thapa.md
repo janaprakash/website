@@ -12,7 +12,7 @@ permalink: people/kamal-thapa
 name: Kamal Thapa Magar
 pronouns: He/Him
 alumni: 
-cop: Account, Business Studies
+cop: Secondary Level/Account/Business Studies
 city_of_origin: Pokhara
 image_name: kamal-thapa.jpg
 quote: 

@@ -12,7 +12,7 @@ permalink: people/manoj-poudel
 name: Manoj Poudel
 pronouns: He/Him
 alumni: 
-cop: +2 coordinator, Account
+cop: +2 coordinator/Account
 city_of_origin: Pokhara
 previously_at: 
 image_name: manoj-poudel.jpg

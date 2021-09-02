@@ -6,16 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/arjun-kandel
+permalink: people/meenu-ghale
 
 # People Carousel and Page (Edit this)
-name: Arjun Kandel
-pronouns: He/Him
+name: Meenu Ghale
+pronouns: She/Her
 alumni: 
-cop: Basic Level/Mathematics
+cop: Basic Level/English
 city_of_origin: Pokhara
 previously_at: 
-image_name: arjun-kandel.jpg
+image_name:
 quote: 
 
 ---

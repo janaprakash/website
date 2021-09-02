@@ -12,7 +12,7 @@ permalink: people/bikal-neupane
 name: Bikal Neupane
 pronouns: He/Him
 alumni: 
-cop: Mathematics
+cop: Basic Level/Mathematics
 city_of_origin: Rupa-07, Majhgaun
 image_name: bikal-neupane.jpg
 quote: 
