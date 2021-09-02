@@ -12,7 +12,7 @@ permalink: people/shalik-subedi
 name: Shalik Ram Subedi
 pronouns: He/Him
 alumni: 
-cop: English Medium Coordinator
+cop: English Medium Coordinator/Science
 city_of_origin: Pokhara
 previously_at: 
 image_name: shalik-subedi.jpg
