@@ -15,7 +15,7 @@ alumni:
 cop: Mathematics
 city_of_origin: Pokhara
 previously_at: 
-image_name:
+image_name: arjun-kandel.jpg
 quote: 
 
 ---
