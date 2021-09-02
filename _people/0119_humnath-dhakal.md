@@ -12,10 +12,10 @@ permalink: people/humnath-dhakal
 name: Humnath Dhakal
 pronouns: He/Him
 alumni: 
-cop: Basic Level
+cop: Basic Level(1-5)
 city_of_origin: Pokhara
 previously_at: 
-image_name:
+image_name: humnath-dhakal.jpg
 quote: 
 
 ---
