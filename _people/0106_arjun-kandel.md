@@ -6,16 +6,16 @@ banner_file_mobile: banner--people-projects-sm.svg
 people_page: true
 
 # Page link (Edit this)
-permalink: people/shekhar-sharma
+permalink: people/arjun-kandel
 
 # People Carousel and Page (Edit this)
-name: Shekhar Nath Sharma
+name: Arjun Kandel
 pronouns: He/Him
 alumni: 
-cop: Principal/Science
+cop: Mathematics
 city_of_origin: Pokhara
 previously_at: 
-image_name: shekhar-sharma.jpg
+image_name:
 quote: 
 
 ---
