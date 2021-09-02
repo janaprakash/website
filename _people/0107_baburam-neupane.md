@@ -11,11 +11,11 @@ permalink: people/baburam-neupane
 # People Carousel and Page (Edit this)
 name: Baburam Neupane
 pronouns: He/Him
-alumni: 
+alumni: XYZ
 cop: Social Studies
 city_of_origin: Pokhara
 previously_at: 
-image_name:
+image_name: baburam-neupane.jpg
 quote: 
 
 ---
