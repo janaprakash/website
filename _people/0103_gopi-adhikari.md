@@ -12,7 +12,7 @@ permalink: people/gopi-adhikari
 name: Gopi Raj Adhikari
 pronouns: He/Him
 alumni: 
-cop: English
+cop: Discipline Incharge/English
 city_of_origin: Pokhara
 previously_at: 
 image_name: gopi-adhikari.jpg
