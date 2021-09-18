@@ -23,10 +23,12 @@ who_we_are_what_we_do:
 objectives:
   heading_title: "Our objectives"
   items:
-    - item: "Transform critical, public-facing services"
-    - item: "Expand the use of common platforms, services, and tools"
-    - item: "Rethink how the Government buys digital services"
-    - item: "Bring top technical talent into civic service"
+    - item: "To understand the importance of health, hygiene and safety"
+    - item: "To involve children in regular exercise"
+    - item: "To create high standards of learning experiences for all children by providing access to all areas"
+    - item: "To create a caring, secure environment so that all in school feel a sense of worth"
+    - item: "To develop a positive place for the school within the community"
+    - item: "To create a partnership with parents" 
   link_text: "Find out how we meet our goals"
 
 
