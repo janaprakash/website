@@ -12,7 +12,7 @@ permalink: people/sita-tiwari
 name: Sita Kumari Tiwari
 pronouns: She/Her
 alumni: 
-cop: Basic Level
+cop: Basic Level(1-5)
 city_of_origin: Pokhara
 previously_at: 
 image_name:

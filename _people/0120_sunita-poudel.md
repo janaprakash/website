@@ -12,7 +12,7 @@ permalink: people/sunita-poudel
 name: Sunita Poudel
 pronouns: She/Her
 alumni: 
-cop: Basic Level/Social Studies
+cop: Basic Level(6-8)/Social Studies
 city_of_origin: Pokhara
 previously_at: 
 image_name:

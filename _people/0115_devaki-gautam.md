@@ -12,7 +12,7 @@ permalink: people/devaki-gautam
 name: Devaki Gautam
 pronouns: She/Her
 alumni: 
-cop: Basic Level/Mathematics
+cop: Basic Level(6-8)/Mathematics
 city_of_origin: Pokhara
 previously_at: 
 image_name:

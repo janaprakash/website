@@ -12,7 +12,7 @@ permalink: people/meenu-ghale
 name: Meenu Ghale
 pronouns: She/Her
 alumni: 
-cop: Basic Level/English
+cop: Basic Level(6-8)/English
 city_of_origin: Pokhara
 previously_at: 
 image_name:
