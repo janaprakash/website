@@ -10,11 +10,11 @@ permalink: people/nir-charmakar
 
 # People Carousel and Page (Edit this)
 name: Nir Bahadur Charmakar
-pronouns: He/Him
-alumni: 
-cop: Vice-Principal/Mathematics
-city_of_origin: Pokhara
-previously_at: Ammarsiddha Namuna Madhyamik Vidyalaya
+designation: Vice Principal
+subject: Mathematics
+level: Secondary
+phoneno: +9779856036312
+email: 
 image_name: nir-charmakar.jpg
 quote: 
 

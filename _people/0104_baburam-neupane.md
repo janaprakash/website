@@ -10,11 +10,12 @@ permalink: people/baburam-neupane
 
 # People Carousel and Page (Edit this)
 name: Baburam Neupane
-pronouns: He/Him
-alumni:
-cop: Secondary level/Social Studies
-city_of_origin: Pokhara
-previously_at: 
+designation: Teacher
+level: Secondary
+subject: Social Studies
+phoneno: +9779856061374
+email: 
+image_name: 
 image_name: baburam-neupane.jpg
 quote: 
 

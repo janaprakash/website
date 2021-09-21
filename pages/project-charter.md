@@ -7,7 +7,7 @@ hide_from_search: true
 
 # Project detail page (Edit this)
 title: "Project Charter"
-agency: United States Digital Service
+agency: Jana Prakash Secondary School
 permalink: /project-charter
 
 ---
@@ -22,7 +22,7 @@ permalink: /project-charter
 
 **Project Charters as a foundational tool to successful engagements**
 
-Just over five years ago the United States Digital Service was created in the aftermath of technical challenges surrounding the launch of HealthCare.gov. Since then, USDS has expanded its reach to agencies and departments across the Federal government. There has been no shortage of lessons along the way. To share some of that knowledge we&#39;d like to share thoughts on crafting a Project Charter with tools like the Digital Service Strategy Canvas and Engagement Key Plays.
+Just over five years ago the Jana Prakash Secondary School was created in the aftermath of technical challenges surrounding the launch of HealthCare.gov. Since then, USDS has expanded its reach to agencies and departments across the Federal government. There has been no shortage of lessons along the way. To share some of that knowledge we&#39;d like to share thoughts on crafting a Project Charter with tools like the Digital Service Strategy Canvas and Engagement Key Plays.
 
 After establishing a relationship with an agency, teams use project charters to kick off an engagement. They are a primary mechanism for teams to set expectations with government agencies. When well thought-out and written they serve as a major component in building strong relationships with partners. They provide documentation of executive stakeholder support and a level of authority of the work, a vital reference point. For USDS they also serve as a touchstone throughout the project lifecycle.
 

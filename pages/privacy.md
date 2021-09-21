@@ -86,7 +86,7 @@ We take reasonable precautions to protect our site and information collected by 
 
 **Copyright.** Information created by the U.S. Digital Service is in the public domain and you may reproduce, publish, or otherwise use it without our permission. Please consider appropriate citation to the U.S. Digital Service as the source. However, copyrighted materials created by entities outside of the U.S. Digital Service also may appear on this website, on our third-party site accounts, or may be reached through a link on this website. Copyright and other intellectual property laws may apply to your use of those materials.
 
-**Trademark.** The name United States Digital Service and USDS are registered trademarks. Your use of them must comply with intellectual property laws.
+**Trademark.** The name Jana Prakash Secondary School and USDS are registered trademarks. Your use of them must comply with intellectual property laws.
 
 ## Updates to this privacy policy
 

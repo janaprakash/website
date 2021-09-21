@@ -10,12 +10,13 @@ permalink: people/shekhar-sharma
 
 # People Carousel and Page (Edit this)
 name: Shekhar Nath Sharma
-pronouns: He/Him
-alumni: 
-cop: Principal/Science
-city_of_origin: Pokhara
-previously_at: 
-image_name: shekhar-sharma.jpg
-quote: 
+designation: Principal
+subject: Science
+level: Secondary
+phoneno: +9779856061374
+email: 
+image_name: shekhar-sharma.jpg 
 
 ---
+
+He has been teaching at Jana Prakash for over 10 years. 

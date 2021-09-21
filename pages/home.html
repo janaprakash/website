@@ -1,6 +1,6 @@
 ---
 layout: default
-description: The United States Digital Service is transforming how the federal government works for the American people. And we need you.
+description: The Jana Prakash Secondary School is transforming how the federal government works for the American people. And we need you.
 permalink: /
 social_image: social-card--homepage.jpg
 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% assign content = site.data.home %}
+{% assign about = site.data.our_mission %}
 
 <div class="site-c-page-banner site-c-page-banner--min-height">
   <img src="{{ site.baseurl }}/assets/img/banner-home-old.jpg" srcset="{{ site.baseurl }}/assets/img/banner-home-old.jpg 640w,
@@ -22,18 +23,10 @@ redirect_from:
 
 <div class="grid-container">
   <section class="site-c-section">
-    <div class="grid-row">
-      <div class="grid-col-12 tablet:grid-col-7 desktop:grid-col-8 site-c-section-heading site-c-section-heading--keep-column tablet:padding-right-3">
-        <h2 class="site-c-section-heading__heading">{{ content.mission.heading_title }}</h2>
-        <div class="site-c-section-heading__text usa-prose">
-          {{ content.mission.heading_text | replace: 'site.baseurl', site.baseurl | markdownify}}
-        </div>
-        <div class="site-c-section-heading__links">
-          <a class="usa-button usa-button--outline" href="{{ site.baseurl }}{% link pages/about-us.html %}">{{ content.mission.heading_button_text }}</a>
-        </div>
-      </div>
-      <div class="grid-col-12 tablet:grid-col-5 desktop:grid-col-4 tablet:padding-left-3 padding-top-7 ">
-
+    <div class="site-c-section-heading">
+      <h1 class="site-c-section-heading__heading site-c-section-heading__heading--h1">{{ about.page_title.heading_title }}</h1>
+      <div class="site-c-section-heading__text site-c-section-heading__text--big usa-prose">
+        {{ about.page_title.heading_text | replace: 'site.baseurl', site.baseurl | markdownify}}
       </div>
     </div>
   </section>

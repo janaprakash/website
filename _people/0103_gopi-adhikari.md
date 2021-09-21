@@ -10,11 +10,12 @@ permalink: people/gopi-adhikari
 
 # People Carousel and Page (Edit this)
 name: Gopi Raj Adhikari
-pronouns: He/Him
-alumni: 
-cop: Discipline Incharge/English
-city_of_origin: Pokhara
-previously_at: 
+designation: Discipline Incharge, Teacher
+subject: English
+level: Secondary
+phoneno: +9779856061500
+email: 
+image_name: 
 image_name: gopi-adhikari.jpg
 quote: 
 

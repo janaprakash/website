@@ -10,12 +10,12 @@ permalink: people/parbati-khanal
 
 # People Carousel and Page (Edit this)
 name: Parbati Khanal
-pronouns: She/Her
-alumni: 
-cop: Secondary Level/Nepali
-city_of_origin: Pokhara
-previously_at: 
-image_name:
+designation: Teacher
+level: Secondary
+subject: Nepal
+phoneno: +9779856061374
+email: 
+image_name: 
 quote: 
 
 ---

@@ -1,47 +1,43 @@
 <div class="grid-container margin-y-5">
   <div class="grid-row flex-align-end margin-bottom-3">
     <div class="tablet:grid-col-6 overflow-hidden radius-md">
-      <img class="display-block" src="{{ site.baseurl }}/images/{{ page.image_name }}" alt="Photo of {{ page.name }}" />
+      {% if page.image_name %}
+      <img src="" data-lazy-src="{{ site.baseurl }}/images/{{ page.image_name }}" alt="Photo of {{ page.name }}" />
+    {% else %}
+      <img src="" data-lazy-src="{{ site.baseurl }}/images/no-photo-logo.png" alt="Photo of {{ page.name }}" />
+    {% endif %}
     </div>
     <div class="tablet:grid-col-6 tablet:padding-left-5 font-body-md">
-      {% if page.pronouns %}
+      {% if page.designation %}
         <div>
-          <strong class="text-primary">Pronouns:</strong>
-          <span class="text-bold">{{ page.pronouns }}</span>
+          <strong class="text-primary">Designation:</strong>
+          <span class="text-bold">{{ page.designation }}</span>
         </div>
       {% endif %}
-      {% if page.cop %}
-        <div>
-          <strong class="text-primary">Community of practice:</strong>
-          <span class="text-bold">{{ page.cop }}</span>
-        </div>
-      {% endif %}
-      {% if page.team %}
-        <div>
-          <strong class="text-primary">Team:</strong>
-          <span class="text-bold">{{ page.team }}</span>
-        </div>
-      {% endif %}
-      {% if page.city_of_origin %}
-        <div>
-          <strong class="text-primary">City of origin:</strong>
-          <span class="text-bold">{{ page.city_of_origin }}</span>
-        </div>
-      {% endif %}
-      {% if page.previously_at %}
-        <div>
-          <strong class="text-primary">Previously at:</strong>
-          <span class="text-bold">{{ page.previously_at }}</span>
-        </div>
-      {% endif %}
+      {% if page.subject %}
       <div>
-        <strong class="text-primary">Tour status:</strong>
-        <span class="text-bold">{% if page.alumni == true %}
-          Alum
-        {% else %}
-          Staff
-        {% endif %}</span>
+        <strong class="text-primary">Subject:</strong>
+        <span class="text-bold">{{ page.subject }}</span>
       </div>
+    {% endif %}
+      {% if page.level %}
+        <div>
+          <strong class="text-primary">Level:</strong>
+          <span class="text-bold">{{ page.level }}</span>
+        </div>
+      {% endif %}
+      {% if page.phoneno %}
+        <div>
+          <strong class="text-primary">Phone Number:</strong>
+          <span class="text-bold">{{ page.phoneno }}</span>
+        </div>
+      {% endif %}
+      {% if page.email %}
+        <div>
+          <strong class="text-primary">Email:</strong>
+          <span class="text-bold">{{ page.email }}</span>
+        </div>
+      {% endif %}
     </div>
   </div>
 

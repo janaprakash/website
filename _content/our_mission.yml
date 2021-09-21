@@ -1,23 +1,15 @@
 page_title:
   heading_title: "About JPSS"
   heading_text: |-
-    Jana Prakash Secondary School is a public school established in 2015 Poush 27, funded by Nepal Government. It is situated at Bhandardhik, Pokhara Metropolitan-29.The total area covered by school premises is 36 ropanees.
-    Approval
-    Primary   : 2015 B.S. from D.E.O., Kaski
-    Lower Secondary/ Seconadary : 2047 B.S. from D.E.O., Kaski
-    Higher Secondary            : 2051 B.S. from HSEB Board
+    Jana Prakash Secondary School is a public school established in 2015 Poush 27, funded by Nepal Government. It is situated at Bhandardhik, Pokhara Metropolitan-29. The total area covered by school premises is 36 ropanees.
 
-    The classes are being run in two mediums distinctively in the school that are Nepali Medium classes from class 1-12 and English Medium classes from Nursery to class 12. Jana Prakash Seconadry School lies 12 km east to Pokhara, 3 km south of Begnas Lake with the access of Prithvi Highway.
-    Beautiful Himalayas can be viewed in its surrounding with fresh and sufficient environment for studies. There is Dipshika Public Library that is promoting the quality of education in higher level classes. There is a stadium at the eastern side that is encouraging students for atheletic awareness.
-
-    A Resource Centre is in its premises that connects the information to pass to neighbouring schools. So, it has been the leading school in entire Lekhnath.
 who_we_are_what_we_do:
-  section_1_title: "Who we are"
-  section_1_text: "Jana Prakash Secondary School is a public school established in 2015 Poush 27, funded by Nepal Government. It is situated at Bhandardhik, Pokhara Metropolitan-29.The total area covered by school premises is 36 ropanees."
-
-  section_2_title: "What we do"
-  section_2_text: "The classes are being run in two mediums distinctively in the school that are Nepali Medium classes from class 1-12 and English Medium classes from Nursery to class 12. Jana Prakash Seconadry School lies 12 km east to Pokhara, 3 km south of Begnas Lake with the access of Prithvi Highway.
+  section_1_title: "What do we do?"
+  section_1_text: "The classes are being run in two mediums distinctively in the school that are Nepali Medium classes from class 1-12 and English Medium classes from Nursery to class 12. Jana Prakash Seconadry School lies 12 km east to Pokhara, 3 km south of Begnas Lake with the access of Prithvi Highway.
     Beautiful Himalayas can be viewed in its surrounding with fresh and sufficient environment for studies. There is Dipshika Public Library that is promoting the quality of education in higher level classes. There is a stadium at the eastern side that is encouraging students for atheletic awareness."
+
+  section_2_title: "Resource Center"
+  section_2_text: "A Resource Centre is in its premises that connects the information to pass to neighbouring schools. So, it has been the leading school in entire Lekhnath."
 
 
 objectives:
@@ -29,9 +21,6 @@ objectives:
     - item: "To create a caring, secure environment so that all in school feel a sense of worth"
     - item: "To develop a positive place for the school within the community"
     - item: "To create a partnership with parents" 
-  link_text: "Find out how we meet our goals"Find out how we meet our goals
-
-
 
 
 who_we_help:
