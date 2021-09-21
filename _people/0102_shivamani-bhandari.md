@@ -14,7 +14,7 @@ pronouns: He/Him
 alumni: 
 cop: Secondary Level/English
 city_of_origin: Pokhara
-image_name: 
+image_name: shivamani-bhandari.jpg
 quote: 
 
 ---
