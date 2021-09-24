@@ -15,7 +15,7 @@ alumni:
 cop: Basic Level(6-8)/Computer Science
 city_of_origin: Pokhara
 previously_at: 
-image_name:
+image_name: prakash-poudel.jpg
 quote: 
 
 ---
