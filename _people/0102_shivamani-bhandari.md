@@ -15,7 +15,7 @@ subject: English
 level: Secondary
 phoneno: +9779856022283
 email: 
-image_name: shiva-bhandari.jpg
+image_name:
 quote: 
 
 ---
